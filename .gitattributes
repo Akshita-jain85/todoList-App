@@ -1,6 +1,6 @@
-*.cs linguist-detectable=false     # C# files
-*.java linguist-detectable=false   # Java files
-*.js linguist-detectable=false     # JavaScript files
-*.html linguist-detectable=false   # HTML files
-*.cpp linguist-detectable=false    # C++ files
-*.dart linguist-detectable=true    # Dart files
+*.cs linguist-detectable=false     
+*.java linguist-detectable=false   
+*.js linguist-detectable=false     
+*.html linguist-detectable=false   
+*.cpp linguist-detectable=false    
+*.dart linguist-detectable=true    
